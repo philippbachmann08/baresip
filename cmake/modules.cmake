@@ -44,6 +44,7 @@ set(MODULES
   cons
   contact
   ctrl_tcp
+  dtmf
   debug_cmd
   ebuacip
   echo
